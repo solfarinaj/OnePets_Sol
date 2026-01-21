@@ -1,194 +1,80 @@
-# OnePets – Market Context (Fase 1)
+# OnePets: Análisis de Mercado y Contexto Competitivo
 
-## 1. Visión general del mercado
-
-El mercado de productos para mascotas (principalmente perros y gatos) ha crecido de forma sostenida en los últimos años. Las mascotas son consideradas parte de la familia ("pet parents"), lo que se traduce en:
-
-- Mayor gasto en alimento de mejor calidad (premium y super premium).
-- Aumento del consumo de snacks, suplementos y productos de higiene.
-- Mayor disposición a pagar por conveniencia (delivery, suscripciones, compras online).
-
-En zonas urbanas de alta densidad, este efecto se acentúa: los dueños de mascotas suelen tener poco espacio para almacenar grandes volúmenes de alimento o arena, utilizan más servicios online y valoran soluciones rápidas cuando se quedan sin producto.
-
-El canal ecommerce ha crecido, pero sigue existiendo un espacio mal cubierto:
-
-- Sitios poco optimizados para móviles.
-- Experiencias de compra confusas (filtros pobres, categorías mezcladas).
-- Tiempos de entrega poco claros o poco confiables.
-- Falta de integración entre tienda física y tienda online.
-
-OnePets se posiciona en este contexto, con una propuesta enfocada en **conveniencia + rapidez + recurrencia**, empezando por una zona piloto y un surtido reducido pero muy relevante.
+> **Documento:** Análisis de Mercado (MVP)
+> **Versión:** 1.0
+> **Propósito:** Evaluar el entorno competitivo, el tamaño de la oportunidad y las tendencias clave para el lanzamiento del MVP de OnePets.
 
 ---
 
-## 2. Público objetivo y comportamientos clave
+## Resumen Ejecutivo
 
-**Perfil principal de cliente (MVP):**
-
-- Dueños de perros y gatos que viven en:
-  - departamentos o casas pequeñas,
-  - zonas de alta densidad urbana.
-- Rango de edad típico:
-  - 25–45 años,
-  - trabajan fuera de casa o tienen rutinas intensas.
-- Uso intensivo de servicios digitales:
-  - apps de delivery,
-  - banca online,
-  - redes sociales.
-
-**Comportamientos clave:**
-
-- Compran alimento y arena de forma recurrente cada 2–6 semanas.
-- Tienen poco tiempo y poca paciencia para:
-  - ir físicamente a una tienda si no es necesario,
-  - navegar sitios lentos o mal organizados.
-- Se estresan cuando se dan cuenta tarde de que el alimento o la arena se están acabando.
-- Valoran:
-  - poder resolver la compra **rápido**,
-  - saber exactamente **cuándo llegará el pedido**,
-  - evitar cargar peso (sacos grandes, bolsas de arena).
-
-**Motivaciones y pain points:**
-
-- Quieren que la mascota esté siempre bien alimentada y cuidada.
-- No quieren interrumpir su día por una “emergencia de alimento”.
-- Prefieren una experiencia clara: “selecciono producto esencial, elijo entrega o retiro, pago, y listo”.
+El mercado de productos para mascotas está en auge, con un consumidor que cada vez más valora la calidad y la conveniencia. Sin embargo, el e-commerce actual para mascotas en zonas urbanas densas falla en un punto crítico: la **urgencia**. Ningún actor dominante ofrece una solución confiable para entregas ultra-rápidas de productos esenciales. Esta brecha representa una oportunidad clara para OnePets de capturar un nicho de alto valor, enfocándose en un servicio de entrega en menos de 2 horas y un modelo de suscripción, construyendo una ventaja competitiva a través de la excelencia operativa y la lealtad del cliente antes de que los grandes retailers puedan reaccionar.
 
 ---
 
-## 3. Competidores y alternativas actuales
+## 1. Panorama Competitivo
 
-En el entorno actual, los clientes de OnePets pueden:
+El cliente objetivo de OnePets actualmente resuelve su necesidad a través de las siguientes alternativas:
 
-1. **Comprar en grandes cadenas de petshops / supermercados:**
-   - Pros:
-     - Amplitud de catálogo,
-     - presencia de marca,
-     - algunas opciones de despacho.
-   - Contras:
-     - tiempos de entrega no orientados a la urgencia,
-     - experiencia web genérica,
-     - programas de fidelidad poco personalizados para mascotas.
+#### a) Grandes Retailers y Cadenas de Petshops (Ej: Laika, Petco)
+-   **Modelo:** Catálogo masivo, multicanal (tienda física y online), con foco en volumen.
+-   **Fortalezas:** Gran reconocimiento de marca, poder de negociación con proveedores, amplio surtido de productos.
+-   **Debilidades:** **Logística lenta** (entregas en 24-72 horas, no para urgencias), experiencia web genérica, dificultad para ofrecer un servicio personalizado.
+-   **Nuestra Diferenciación:** Somos una "lancha rápida" frente a su "transatlántico". Nos enfocamos en un catálogo reducido de alta rotación y una operación logística diseñada para la velocidad (< 2 horas), un nicho que su modelo a gran escala no puede cubrir eficientemente.
 
-2. **Comprar en tiendas de barrio / veterinarias locales:**
-   - Pros:
-     - cercanía,
-     - confianza previa (relación con el veterinario o dueño del local).
-   - Contras:
-     - horarios limitados,
-     - inventario restringido,
-     - poca o nula presencia digital,
-     - ausencia de suscripción o pedidos recurrentes.
+#### b) Tiendas de Barrio y Veterinarias
+-   **Modelo:** Venta física, relación de confianza y cercanía.
+-   **Fortalezas:** Proximidad física, atención personalizada y experta.
+-   **Debilidades:** **Horarios limitados**, inventario inconsistente, nula o baja digitalización (sin e-commerce ni suscripciones), precios generalmente más altos.
+-   **Nuestra Diferenciación:** Ofrecemos la misma sensación de "solución a la vuelta de la esquina" pero con la conveniencia del e-commerce, disponibilidad extendida y la inteligencia de un modelo de suscripción.
 
-3. **Plataformas generalistas de ecommerce / marketplaces:**
-   - Pros:
-     - variedad de opciones,
-     - precios competitivos en algunos productos.
-   - Contras:
-     - tiempos de entrega variables,
-     - foco en “todo tipo de productos”, no específico para mascotas,
-     - difícil construir una relación de marca emocional con el cliente.
-
-4. **Soluciones caseras / improvisadas:**
-   - Pedir a amigos o familiares,
-   - comprar cualquier marca disponible en el supermercado más cercano,
-   - cambiar abruptamente de alimento por urgencia (malo para la mascota).
-
-**Conclusión competitiva clave (MVP):**
-
-- La mayoría de soluciones resuelve la **compra**, pero no resuelve bien el combo:
-  - **rapidez + recurrencia + experiencia específica para mascotas**.
-- Ahí se ubica OnePets: no busca competir por tener “el catálogo más gigante”, sino por:
-  - entregar súper rápido lo esencial,
-  - ayudar a que el alimento NUNCA falte,
-  - y facilitar la vida del dueño recurrente.
+#### c) Marketplaces Generalistas (Ej: Mercado Libre, Rappi)
+-   **Modelo:** Plataforma que conecta vendedores con compradores, con logística propia o de terceros.
+-   **Fortalezas:** Precios competitivos, amplia variedad de vendedores, a veces ofrecen entregas rápidas (Rappi "Turbo").
+-   **Debilidades:** Experiencia de compra genérica y poco especializada, calidad del servicio inconsistente (depende del vendedor), dificultad para construir una marca y relación emocional con el "pet parent".
+-   **Nuestra Diferenciación:** Somos especialistas. Cada aspecto de nuestra experiencia está diseñado para dueños de mascotas. Garantizamos la calidad del producto y la entrega, construyendo una marca en la que los clientes pueden confiar para el bienestar de su familia.
 
 ---
 
-## 4. Oportunidades para OnePets
+## 2. Oportunidad y Tamaño del Mercado
 
-1. **Foco en zona geográfica limitada (piloto):**
-   - Empezar en un solo sector de alta densidad permite:
-     - controlar mejor la logística,
-     - cumplir la promesa de entrega en ≤ 2 horas,
-     - aprender rápido antes de expandir a otras zonas.
-
-2. **Surtido optimizado (Top 20 SKUs):**
-   - No intentar cubrir todo el universo de productos desde el inicio.
-   - Elegir:
-     - los alimentos más vendidos por especie,
-     - tipos de arena sanitaria más demandados,
-     - algunos ítems clave de higiene y farmacia básica.
-
-3. **Diferenciación por experiencia:**
-   - Web y flujo de compra ultra simples:
-     - pocas decisiones,
-     - todo orientado a resolver “necesidades esenciales de mascota”.
-   - Comunicación clara de la promesa:
-     - “Tu alimento y arena en menos de 2 horas en [zona].”
-
-4. **Suscripción desde el MVP:**
-   - Además de la compra puntual, ofrecer suscripción:
-     - reduce stress al cliente,
-     - genera ingresos recurrentes,
-     - aumenta el valor de vida del cliente (LTV).
-
-5. **Data de uso desde el día 1:**
-   - Poder medir:
-     - frecuencia de compra,
-     - productos más usados en suscripciones,
-     - tiempos reales de entrega,
-     - zonas con mayor demanda.
+-   **Estimación del Mercado (Ejemplo para una ciudad como Santiago):**
+    -   **TAM (Total Addressable Market):** Gasto total en alimento para mascotas en la ciudad.
+    -   **SAM (Serviceable Available Market):** Gasto de los segmentos urbanos con acceso a servicios de delivery y disposición a pagar por conveniencia.
+    -   **SOM (Serviceable Obtainable Market):** Nuestra meta inicial es capturar un 1-2% del SAM en nuestra zona piloto durante el primer año, validando nuestro modelo antes de expandir.
+-   **Tendencias de Crecimiento:** El mercado de "pet care" crece a una tasa anual compuesta (CAGR) estimada del 5-7% en Latinoamérica. La "humanización" de las mascotas y la penetración del e-commerce son los principales impulsores.
+-   **Barreras de Entrada:**
+    -   **Baja para empezar:** El capital inicial para un MVP en una zona acotada es manejable.
+    -   **Media para escalar:** La complejidad logística, la necesidad de capital de trabajo para inventario y los costos de marketing para competir con marcas establecidas son barreras significativas a mediano plazo.
 
 ---
 
-## 5. Riesgos y desafíos del mercado
+## 3. Tendencias Clave del Mercado
 
-1. **Percepción de precio:**
-   - Algunos clientes pueden percibir las entregas rápidas como “caro”.
-   - Será clave:
-     - comunicar el valor de la conveniencia,
-     - mantener precios competitivos en los productos más sensibles (alimento base).
-
-2. **Capacidad logística:**
-   - Cumplir la promesa de “menos de 2 horas” requiere:
-     - procesos internos muy claros,
-     - límites geográficos bien definidos,
-     - comunicación honesta cuando no se puede cumplir.
-
-3. **Dependencia de pocos SKUs:**
-   - El surtido reducido facilita la operación, pero:
-     - requiere acertar con las marcas y formatos correctos,
-     - exige revisar y ajustar catálogo según datos reales de venta.
-
-4. **Competidores reaccionando:**
-   - Si el modelo funciona, otros ecommerces pueden:
-     - mejorar sus tiempos de entrega,
-     - lanzar sus propias suscripciones.
-   - La defensa será:
-     - construir una marca cercana,
-     - datos de clientes y mascotas,
-     - foco en experiencia y no solo en precio.
+-   **Economía de la Conveniencia:** Los consumidores modernos están dispuestos a pagar un premium por servicios que les ahorren tiempo y esfuerzo. El delivery on-demand ya no es un lujo, sino una expectativa.
+-   **Modelo de Suscripción (Subscription Economy):** Los usuarios valoran los modelos "configura y olvida" para productos recurrentes, reduciendo la carga cognitiva y asegurando la disponibilidad.
+-   **Personalización y Datos:** Los "pet parents" esperan experiencias personalizadas. Recopilar datos sobre la mascota (raza, edad, necesidades) es clave para ofrecer recomendaciones y construir lealtad.
 
 ---
 
-## 6. Implicancias para el MVP de OnePets
+## 4. Análisis FODA (SWOT Analysis)
 
-A partir de este contexto de mercado, las decisiones clave para el MVP son:
+#### Fortalezas (Strengths)
+-   **Foco y Especialización:** Modelo de negocio 100% enfocado en un nicho (urgencia y recurrencia), permitiendo una excelencia operativa superior.
+-   **Agilidad:** Capacidad de adaptar rápidamente la operación y el catálogo en la fase de MVP.
+-   **Propuesta de Valor Clara:** El mensaje "< 2 horas" es simple, potente y fácil de comunicar.
 
-- **Empezar acotado:**  
-  - 1 zona de alta densidad,  
-  - 1 dark store / punto de retiro,  
-  - catálogo reducido pero muy relevante.
+#### Oportunidades (Opportunities)
+-   **Brecha en el Mercado:** Ningún competidor grande está resolviendo bien el problema de la urgencia.
+-   **Crecimiento del E-commerce:** La adopción de compras online para mascotas sigue en aumento.
+-   **Lealtad por Suscripción:** Un modelo de suscripción exitoso puede crear una base de clientes recurrentes y de alto LTV (Lifetime Value).
 
-- **Optimizar para rapidez y recurrencia, no para variedad extrema:**
-  - Flujo de compra orientado a reposición rápida,
-  - opción clara de suscripción en los productos esenciales.
+#### Debilidades (Weaknesses)
+-   **Marca Desconocida:** Empezamos desde cero, compitiendo con marcas establecidas.
+-   **Catálogo Limitado:** Un surtido reducido puede no satisfacer a clientes que buscan marcas o productos muy específicos.
+-   **Dependencia Geográfica:** El modelo de negocio inicial está atado a una zona piloto pequeña.
 
-- **Medir desde el principio:**
-  - tiempo real de entrega,
-  - tasa de recompra,
-  - adopción de suscripción,
-  - feedback cualitativo de los primeros clientes.
-
-Este documento sirve como base para alinear producto, tecnología, logística y marketing en la Fase 1, y habilita las siguientes fases de PRD, SRS y PBI dentro de `.context`.
+#### Amenazas (Threats)
+-   **Reacción de la Competencia:** Si el modelo prueba ser exitoso, los grandes retailers o apps de delivery podrían intentar replicarlo.
+-   **Guerra de Precios:** Los competidores con mayor escala pueden bajar precios para sacar del mercado a nuevos actores.
+-   **Complejidad Logística:** Un fallo en la operación de entrega puede destruir la confianza del cliente y la propuesta de valor central.

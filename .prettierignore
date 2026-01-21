@@ -1,0 +1,14 @@
+# Ignore artifacts
+.next/
+dist/
+build/
+coverage/
+
+# Ignore logs
+*.log
+
+# Ignore dependencies
+node_modules/
+
+# Ignore auto-generated files
+src/types/supabase.ts

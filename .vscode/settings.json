@@ -341,5 +341,10 @@
   // =====================
   //? Postman Extension
   // =====================
-  "postman.settings.dotenv-detection-notification-visibility": false
+  "postman.settings.dotenv-detection-notification-visibility": false,
+  "jira-plugin.workingProject": "",
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "python-envs.pythonProjects": [],
+  "git.ignoreLimitWarning": true
 }

@@ -1,310 +1,97 @@
-OnePets – Business Model Canvas (MVP Entrega Ultra-Rápida + Suscripción)
-Problem Statement
+# OnePets: Modelo de Negocio
 
-En las zonas urbanas de alta densidad, las personas que conviven con perros y gatos necesitan comprar alimento, arena y productos de primera necesidad de forma recurrente y, muchas veces, urgente. Hoy dependen de supermercados o petshops que no siempre tienen stock, horarios acotados o tiempos de entrega poco predecibles. Cuando se quedan sin alimento o arena, la experiencia suele ser estresante: salir de urgencia, pagar de más o improvisar con productos no ideales para la mascota.
+> **Documento:** Business Model Canvas
+> **Versión:** 1.0 (MVP)
+> **Propósito:** Definir el modelo de negocio para el lanzamiento inicial de OnePets, enfocado en la entrega ultra-rápida y suscripción de productos esenciales para mascotas.
 
-Además, la mayoría de los ecommerce de mascotas están optimizados para “compras planificadas”, no para entregas rápidas bajo presión. No existe una propuesta enfocada en:
+---
 
-entrega ultra-rápida en menos de 2 horas en zonas específicas,
+## Resumen Ejecutivo (Elevator Pitch)
 
-suscripción simple para que el alimento nunca falte,
+> Para dueños de mascotas en zonas urbanas que valoran su tiempo, **OnePets** es el servicio de e-commerce que entrega alimento y productos esenciales en **menos de 2 horas** y ofrece un modelo de **suscripción inteligente** para que nunca más tengan que preocuparse por el stock. A diferencia de los grandes retailers y tiendas de barrio, nos enfocamos exclusivamente en la rapidez y la conveniencia para una selección curada de productos, asegurando una experiencia de compra sin fricción cuando más importa.
 
-y experiencia omnicanal donde el cliente pueda elegir entre envío o retiro en un punto físico.
+---
 
-OnePets busca cubrir ese espacio con un MVP acotado: empezar en una o pocas zonas de alta densidad, con un surtido mínimo pero profundo de productos esenciales, y una operación logística diseñada para entregar rápido y confiable, mientras se valida el interés real por suscripciones recurrentes.
+## Problem Statement Detallado
 
-MVP Hypothesis
+En las grandes ciudades, los dueños de perros y gatos enfrentan un problema recurrente y estresante: la compra urgente de productos de primera necesidad como alimento o arena sanitaria. La dependencia de supermercados con stock limitado o petshops con horarios restringidos y entregas lentas genera fricción constante. Cuando el alimento se acaba inesperadamente, la solución actual implica una salida de emergencia, pagar sobreprecios o, peor aún, improvisar con productos no adecuados para la mascota.
 
-Hipótesis de adopción (zona piloto):
-Si lanzamos OnePets en una zona urbana de alta densidad (ej. ciertos barrios de Santiago) con promesa de entrega en ≤ 2 horas para productos esenciales, entonces al menos el 20–30 % de los nuevos clientes repetirán una compra dentro de los primeros 45 días.
+Los e-commerce existentes están diseñados para compras planificadas, no para la urgencia. OnePets nace para llenar este vacío con una propuesta de valor simple y potente: ser la solución más rápida y confiable para los productos esenciales de tu mascota, complementada con un sistema de suscripción que elimina el problema de raíz.
 
-Hipótesis de suscripción (alimento recurrente):
-Si ofrecemos una suscripción simple de alimento (con recordatorios y pequeño descuento frente a la compra puntual), entonces al menos el 15–20 % de los clientes que compran 2 veces o más migrarán a un modelo de suscripción dentro de los 3 primeros meses.
+---
 
-Hipótesis de disposición a pagar por rapidez:
-Si ofrecemos entrega ultra-rápida en menos de 2 horas con un cargo de envío diferenciado, entonces al menos el 40 % de los pedidos urgentes aceptarán pagar un costo de envío superior al estándar, siempre que la promesa de rapidez se cumpla de forma consistente.
+## Hipótesis Clave del MVP
 
-Business Model Canvas
-1. Customer Segments – Segmentos de Clientes
+El MVP se diseñará para validar las siguientes tres hipótesis fundamentales:
 
-Dueños de gatos y perros en áreas urbanas de alta densidad, donde la logística de última milla es viable:
+> 1.  **Hipótesis de Adopción:** Si lanzamos OnePets en una zona urbana densa con una promesa de entrega en ≤ 2 horas, **al menos un 25%** de los nuevos clientes realizarán una segunda compra en los primeros 45 días, validando la necesidad de una solución de conveniencia.
+> 2.  **Hipótesis de Suscripción:** Si ofrecemos un modelo de suscripción simple con un pequeño descuento, **al menos un 20%** de los clientes recurrentes (2+ compras) migrarán a una suscripción en los primeros 3 meses, validando el deseo de automatización.
+> 3.  **Hipótesis de Monetización (Rapidez):** Si ofrecemos entregas ultra-rápidas con un costo de envío premium, **al menos un 40%** de los pedidos calificados como "urgentes" aceptarán este cargo a cambio de una entrega garantizada y puntual.
 
-Departamentos o casas pequeñas,
+---
 
-Poco espacio para almacenar grandes volúmenes de alimento o arena.
+## Business Model Canvas
 
-Clientes que priorizan conveniencia y rapidez sobre el precio más bajo:
+### 1. Customer Segments (Segmentos de Clientes)
 
-Dispuestos a pagar un extra por entrega en menos de 2 horas.
+-   **Residentes Urbanos Ocupados:** Dueños de perros y gatos (25-45 años) que viven en apartamentos o casas pequeñas en zonas de alta densidad. Tienen poco espacio de almacenamiento y rutinas exigentes.
+-   **Clientes Orientados a la Conveniencia:** Valoran la rapidez y la comodidad por encima del precio más bajo. Están dispuestos a pagar un premium por un servicio que les ahorre tiempo y esfuerzo.
+-   **Early Adopters de Suscripción:** Usuarios que buscan automatizar compras recurrentes para simplificar su vida y ya han experimentado la frustración de quedarse sin productos para sus mascotas.
 
-Valoran la tranquilidad de “no quedarme sin alimento/arena”.
+### 2. Value Propositions (Propuestas de Valor)
 
-Early adopters de suscripción de alimento:
+-   **Entrega Ultra-Rápida (≤ 2 Horas):** La promesa central. Paz mental al saber que los productos esenciales (alimento, arena, etc.) llegan cuando se necesitan.
+-   **Suscripción Inteligente:** "Ponlo y olvídate". Un sistema fácil de configurar para recibir alimento y otros productos recurrentes, con recordatorios y descuentos.
+-   **Catálogo Curado y Esencial:** Menos es más. Ofrecemos una selección optimizada de los productos más vendidos y necesarios, eliminando la parálisis por análisis y agilizando la compra.
+-   **Experiencia Omnicanal (Click & Collect):** Flexibilidad para comprar online y retirar en un punto físico centralizado (dark store), combinando la velocidad digital con la conveniencia física.
 
-Personas que ya han tenido problemas por olvidar comprar a tiempo.
+### 3. Channels (Canales)
 
-Clientes organizados que prefieren automatizar la compra recurrente.
+-   **Plataforma Web (Mobile-First):** Un sitio e-commerce rápido y sencillo, diseñado para realizar pedidos en menos de 2 minutos desde un dispositivo móvil.
+-   **Punto de Retiro Físico (Dark Store):** Un local que funciona como centro de operaciones logísticas y punto de "Click & Collect".
+-   **Logística de Última Milla:** Flota pequeña y ágil (motos/bicis) o alianza con un courier local especializado que garantice las ventanas de entrega.
+-   **Canales de Soporte:** WhatsApp Business e Instagram para comunicación directa y resolución de dudas.
 
-2. Value Propositions – Propuesta de Valor
+### 4. Customer Relationships (Relaciones con Clientes)
 
-Entrega Ultra-Rápida (MVP):
-Promesa clara: productos de primera necesidad (alimento, arena, algunos ítems de farmacia básica) entregados en menos de 2 horas en zonas cubiertas.
+-   **Servicio Proactivo y Transparente:** Notificaciones automáticas sobre el estado del pedido (preparación, en camino, entregado) y recordatorios de suscripción.
+-   **Soporte Eficiente:** Atención al cliente vía chat y correo, enfocada en resolver problemas de envío, direcciones y cambios de última hora.
+-   **Relación Basada en la Confianza:** El pilar es cumplir la promesa de entrega consistentemente. La comunicación es honesta y directa si surgen imprevistos.
 
-Suscripción Simple:
-Configuración rápida de suscripción para alimento recurrente:
+### 5. Revenue Streams (Fuentes de Ingresos)
 
-Frecuencia elegible (cada 2/4/6 semanas),
+-   **Venta de Productos (Margen Estándar):** Ingresos por la venta de cada artículo del catálogo.
+-   **Modelo de Suscripción:** Ingresos recurrentes mensuales/bimensuales por planes de reabastecimiento automático, generando un flujo de caja predecible.
+-   **Cargos por Servicio de Envío:**
+    - Tarifa de envío estándar (posiblemente gratuita sobre un monto mínimo).
+    - Tarifa premium para la entrega ultra-rápida o para pedidos de bajo valor.
 
-Recordatorios antes del envío,
+### 6. Key Resources (Recursos Clave)
 
-Descuento por recurrencia.
+-   **Plataforma Tecnológica:** E-commerce robusto con funcionalidades de catálogo, pagos y gestión de suscripciones.
+-   **Inventario Inicial (Curado):** Stock profundo de un número limitado de SKUs de alta rotación.
+-   **Operación Logística:** Personal de picking/packing y repartidores (o la alianza con el courier).
+-   **Capital de Trabajo:** Para financiar el inventario inicial y los costos operativos antes de alcanzar el punto de equilibrio.
 
-Disponibilidad Omnicanal (Click & Collect):
+### 7. Key Activities (Actividades Clave)
 
-Posibilidad de comprar online y retirar en un único punto físico (propio o asociado) que funciona como dark store.
+-   **Gestión de Inventario en Tiempo Real:** Asegurar que el stock que se muestra online coincida perfectamente con el stock físico.
+-   **Optimización de la Logística de Entrega:** Rutas, tiempos de preparación y coordinación de despachos para cumplir la promesa de < 2 horas.
+-   **Desarrollo y Mantenimiento Web:** Garantizar una plataforma estable, rápida y con una experiencia de usuario impecable.
+-   **Marketing Digital Hiper-Localizado:** Campañas de adquisición (SEM, Social Ads) enfocadas geográficamente en la zona de cobertura del MVP.
+-   **Gestión de Suscriptores:** Onboarding, gestión de cambios y prevención de cancelaciones (churn).
 
-Experiencia enfocada en lo esencial:
+### 8. Key Partners (Socios Clave)
 
-Catálogo reducido pero optimizado: Top ~20 SKUs más vendidos (alimento seco, arena, algunos snacks y básicos de higiene).
+-   **Proveedores de Productos:** Alianzas con 1-2 distribuidores o marcas líderes que aseguren stock continuo y buenas condiciones comerciales.
+-   **Proveedor de Logística (si aplica):** Una empresa de courier de última milla con un SLA (Acuerdo de Nivel de Servicio) compatible con nuestra promesa.
+-   **Pasarela de Pagos:** Un socio tecnológico confiable (ej. Stripe, Mercado Pago) que garantice un proceso de pago seguro y sin fricción.
+-   **(Opcional) Partners Locales:** Veterinarias o tiendas de barrio que puedan actuar como puntos de difusión o, a futuro, puntos de retiro adicionales.
 
-Menos ruido, más claridad para la compra rápida.
+### 9. Cost Structure (Estructura de Costos)
 
-3. Channels – Canales
-
-Web Responsive / App Sencilla (MVP):
-
-Sitio optimizado para móvil,
-
-Flujo rápido de “seleccionar producto esencial → elegir entrega o retiro → pagar”.
-
-Punto de Retiro (Dark Store + Click & Collect):
-
-Un solo local (propio o asociado) usado como:
-
-bodega central del MVP,
-
-punto de retiro para clientes que prefieren pasar a buscar.
-
-Micro-Logística Local:
-
-Flota propia pequeña (motos/bicicletas) o alianza con courier local de última milla:
-
-capaz de garantizar ventanas de entrega de 2 horas dentro de la zona objetivo.
-
-Canales complementarios (comunicación, no transacción):
-
-WhatsApp Business o Instagram para dudas rápidas y soporte.
-
-4. Customer Relationships – Relación con Clientes
-
-Soporte Proactivo:
-
-Notificaciones automáticas (email/WhatsApp) sobre:
-
-estado del pedido (preparación, en camino, entregado),
-
-próximas fechas de reabastecimiento para suscripciones.
-
-Servicio al Cliente Básico pero efectivo:
-
-Atención enfocada en:
-
-problemas de envío,
-
-direcciones,
-
-cambios de horario,
-
-productos no disponibles.
-
-Principalmente vía chat/WhatsApp y correo.
-
-Relación orientada a confianza y recurrencia:
-
-Entregar siempre en tiempo y forma para construir hábito.
-
-Mensajes claros cuando no se pueda cumplir la ventana de 2 horas (y alternativas).
-
-5. Revenue Streams – Flujos de Ingresos
-
-Venta Única de Productos:
-
-Margen estándar por venta de productos (alimento, arena, juguetes, accesorios básicos).
-
-Modelo de Suscripción (MVP):
-
-Ingresos recurrentes por:
-
-planes de alimento automático (ej. bolsa de 15 kg cada 4 semanas),
-
-posibles descuentos por fidelidad o volumen.
-
-Cargos por Servicio de Envío:
-
-Tarifa de envío estándar (para pedidos que cumplen cierto mínimo).
-
-Tarifa diferenciada (más alta) para la entrega ultra-rápida en menos de 2 horas o para pedidos de bajo monto.
-
-6. Key Resources – Recursos Clave
-
-Plataforma de E-commerce Funcional:
-
-Software listo o framework (ej. Next.js + backend) con:
-
-catálogo,
-
-carrito,
-
-pagos,
-
-integración básica con logística.
-
-Inventario Mínimo Viable (MVP):
-
-Stock profundo de un set limitado de productos:
-
-Top 20 SKUs de alimento,
-
-arena sanitaria,
-
-algunos ítems críticos de farmacia/higiene.
-
-Equipo de Logística / Fulfillment:
-
-Personas dedicadas a:
-
-preparar pedidos rápidamente,
-
-coordinar despachos y retiros,
-
-controlar stock real vs publicados.
-
-Tecnología de soporte:
-
-Integración con pasarela de pago,
-
-sistema para gestionar pedidos y estados,
-
-panel interno para ver capacidad de entrega por franja horaria.
-
-7. Key Activities – Actividades Clave
-
-Gestión de Inventario y Fulfillment:
-
-Mantener el inventario del MVP siempre actualizado.
-
-Garantizar que los productos ofrecidos con entrega en 2 horas realmente estén disponibles.
-
-Desarrollo y Mantenimiento de la Web:
-
-Asegurar:
-
-estabilidad de la plataforma,
-
-performance adecuada (tiempos de carga),
-
-flujo de compra simple.
-
-Marketing Digital de Conversión:
-
-Campañas segmentadas (SEM / Social Ads) dirigidas a la zona objetivo.
-
-Mensaje claro: “alimento y arena para tu mascota en menos de 2 horas”.
-
-Optimización de la Operación de Entrega:
-
-Ajustar procesos internos según:
-
-horas pico,
-
-tiempo real de preparación,
-
-capacidad de riders / couriers.
-
-Gestión de Suscripciones (a partir de adopción):
-
-Monitorizar suscriptores,
-
-gestionar cambios en frecuencia,
-
-evitar fallos en reabastecimiento.
-
-8. Key Partners – Socios Clave
-
-Proveedores Estratégicos de Producto:
-
-1–2 marcas líderes de alimento y productos esenciales:
-
-que garanticen:
-
-continuidad de stock,
-
-condiciones de pago razonables,
-
-potencial apoyo en marketing.
-
-Proveedor de Logística de Última Milla (si no es flota propia):
-
-Empresa local que pueda comprometerse a:
-
-ventanas de entrega de 2 horas,
-
-SLA claros de servicio.
-
-Pasarela de Pagos Confiable:
-
-Integración con un proveedor de pagos que:
-
-procese rápido,
-
-reduzca fricción en checkout,
-
-ofrezca seguridad y confianza.
-
-Partners Locales (secundarios):
-
-Veterinarias/petshops aliados que puedan funcionar como:
-
-puntos de retiro,
-
-lugares de visibilidad para captar primeros clientes.
-
-9. Cost Structure – Estructura de Costos
-
-Costos de Inventario (COGS):
-
-Compra de productos (alimento, arena, básicos).
-
-Costo principal del negocio.
-
-Costos de Plataforma y Tecnología:
-
-Desarrollo inicial del ecommerce y suscripción.
-
-Mantenimiento y hosting.
-
-Posibles licencias de herramientas de gestión (backoffice, analytics).
-
-Costos de Marketing Digital:
-
-Presupuesto para:
-
-campañas de adquisición en la zona objetivo,
-
-pruebas A/B de mensajes sobre rapidez vs. precio.
-
-Costos de Logística y Envío:
-
-Pago a flota/courier,
-
-sueldos del personal de fulfillment,
-
-materiales (bolsas, cajas, etiquetas).
-
-Costos Operativos Generales:
-
-Alquiler o costo del espacio de dark store (si aplica),
-
-servicios básicos,
-
-herramientas de gestión (contabilidad, soporte, etc.).
+-   **Costos de Mercancía Vendida (COGS):** El costo de adquisición del inventario.
+-   **Costos de Tecnología:** Desarrollo inicial, hosting y mantenimiento de la plataforma. Licencias de software.
+-   **Costos de Marketing y Adquisición:** Inversión en campañas para atraer a los primeros clientes.
+-   **Costos de Logística:** Salarios del personal de almacén, pago a repartidores/courier y materiales de embalaje.
+-   **Costos Operativos:** Alquiler de la dark store, servicios básicos y salarios del equipo core.
