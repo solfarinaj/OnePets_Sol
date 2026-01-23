@@ -206,8 +206,8 @@ async function seedDatabase() {
       const status = faker.helpers.arrayElement(['pending', 'preparing', 'out_for_delivery', 'delivered', 'cancelled']);
 
       let deliveryAddressId = null;
-      if (deliveryMethod === 'home_delivery' && addresses.some(a => a.user_id === user.id)) {
-        deliveryAddressId = faker.helpers.arrayElement(addresses.filter(a => a.user_id === user.id)).id;
+      if (deliveryMethod === 'home_delivery' && seededAddresses && seededAddresses.some(a => a.user_id === user.id)) {
+        deliveryAddressId = faker.helpers.arrayElement(seededAddresses.filter(a => a.user_id === user.id)).id;
       }
 
       const { data: orderData, error: orderError } = await supabase.from('orders').insert({

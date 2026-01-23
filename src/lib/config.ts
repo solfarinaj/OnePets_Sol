@@ -7,6 +7,7 @@ const resolvedSupabaseUrl =
 const resolvedSupabaseAnonKey =
   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||
   process.env.SUPABASE_ANON_KEY;
+const resolvedSupabaseServiceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
 
 if (!resolvedSupabaseUrl) {
   throw new Error(
@@ -20,9 +21,15 @@ if (!resolvedSupabaseAnonKey) {
   );
 }
 
+if (!resolvedSupabaseServiceRoleKey) {
+  throw new Error(
+    'Missing Supabase Service Role Key. Set SUPABASE_SERVICE_ROLE_KEY in your server environment.'
+  );
+}
+
 export const supabaseUrl = resolvedSupabaseUrl;
 export const supabaseAnonKey = resolvedSupabaseAnonKey;
-export const supabaseServiceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+export const supabaseServiceRoleKey = resolvedSupabaseServiceRoleKey;
 export const appUrl =
   process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000';
 

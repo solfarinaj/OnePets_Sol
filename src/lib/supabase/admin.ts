@@ -8,5 +8,11 @@ if (!supabaseServiceRoleKey) {
   );
 }
 
+if (!supabaseUrl) {
+  throw new Error(
+    'Missing SUPABASE_URL. Set NEXT_PUBLIC_SUPABASE_URL (and SUPABASE_URL for server).'
+  );
+}
+
 export const createAdminClient = () =>
   createClient<Database>(supabaseUrl, supabaseServiceRoleKey);
